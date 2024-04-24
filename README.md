@@ -1,4 +1,4 @@
-# complex-reasoning-with-react-and-langchain
+# Complex Reasoning with ReAct using Langchain Agents and Amazon Bedrock
 
 In this workshop, you will learn how to use multiple different techniques and models to build a ReAct based framework. ReAct is an approach to problem solving with large language models based on 2 main premises: Reasoning and Action. With ReAct, you combine reasoning, through chain-of-thought, with the ability to perform actions through a set of tools. This enables the model to (Re)ason through the input request to determine what steps need to be performed, and uses the available tools to perform (ACT)ions as part of a step-by-step resolution.
 
