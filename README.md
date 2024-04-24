@@ -24,15 +24,11 @@ Please follow the detailed steps below to access your workshop AWS account:
 
 ![EE-1](./images/Setup-3.png)
 
-5. Enter the 12-character Event Access Code received from the event organizer and click **Next**.
-
-![EE-1](./images/Setup-4.png)
-
-6. Review the Terms and Conditions, scrolling down to click *I agree with the Terms and Conditions*.  Click **Join event** 
+5. Review the Terms and Conditions, scrolling down to click *I agree with the Terms and Conditions*.  Click **Join event** 
 
 ![EE-1](./images/WS-1.png)
 
-7. On the bottom left under **AWS account access**, select **Open AWS console (us-west-2)** 
+6. On the bottom left under **AWS account access**, select **Open AWS console (us-west-2)** 
 
 ![EE-2](./images/WS-2.png)
 
@@ -77,7 +73,7 @@ Please follow the detailed steps below to access Amazon SageMaker Studio:
 4. Click **View JupyterLab spaces** 
 
 
-![Studio-4](./images/Studio-D.png)
+![Studio-4](./images/studio-D.png)
 
 5. Click **Create JupyterLab space**
 
